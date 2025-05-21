@@ -1,5 +1,4 @@
 # PDFtranX
-PDF Translator, extracts the content in PDF by OCR and translates it to the specified language.
 PDF翻译器，将PDF中内容通过OCR提取，并翻译为指定语言。
 ---
 ## 依赖库
